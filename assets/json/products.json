@@ -1,0 +1,185 @@
+{
+    "products": [{
+            "id": 6,
+            "title": "Apple iPhone 11",
+            "image": "https://images.pexels.com/photos/1159670/pexels-photo-1159670.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "price": 760,
+            "category": "Featured Products"
+        },
+
+        {
+            "id": 3,
+            "title": "Sony WH-CH510",
+            "image": "https://images.pexels.com/photos/4061385/pexels-photo-4061385.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "price": 265,
+            "category": "Special Products"
+        },
+        {
+            "id": 4,
+            "title": "Apple iPhone 11",
+            "image": "https://images.pexels.com/photos/5788986/pexels-photo-5788986.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "price": 850,
+            "category": "Special Products"
+        },
+        {
+            "id": 8,
+            "title": "Apple iPhone 11",
+            "image": "https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "price": 290,
+            "category": "Featured Products"
+        },
+        {
+            "id": 5,
+            "title": "Sony WH-CH510",
+            "image": "https://images.pexels.com/photos/1598508/pexels-photo-1598508.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "price": 250,
+            "category": "Special Products"
+        },
+
+        {
+            "id": 7,
+            "title": "Sony WH-CH510",
+            "image": "https://images.pexels.com/photos/267320/pexels-photo-267320.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "price": 365,
+            "category": "Featured Products"
+        },
+
+
+        {
+            "id": 10,
+            "title": "Apple iPhone 11 Pro",
+            "image": "https://images.pexels.com/photos/1027130/pexels-photo-1027130.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "price": 385,
+            "category": "Special Products"
+        },
+        {
+            "id": 11,
+            "title": "Sony WH-CH510",
+            "image": "https://images.unsplash.com/photo-1606890657196-d3da9fda15ef?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzR8fGNsb3RoaW5nfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+            "price": 475,
+            "category": "Special Products"
+        },
+        {
+            "id": 13,
+            "title": "Apple iPhone 11",
+            "image": "https://images.unsplash.com/flagged/photo-1556637640-2c80d3201be8?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mzd8fGNsb3RoaW5nfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+            "price": 800,
+            "category": "Trending Products"
+        },
+        {
+            "id": 12,
+            "title": "Sony WH-CH510",
+            "image": "https://static.highsnobiety.com/thumbor/FeTPsLvztOHzq_uV-0R6idBNqpQ=/1200x720/static.highsnobiety.com/wp-content/uploads/2017/04/28123613/ripped-jeans-feature.jpg",
+            "price": 850,
+            "category": "Special Products"
+        },
+
+        {
+            "id": 14,
+            "title": "Sony WH-CH510",
+            "image": "https://i.ebayimg.com/thumbs/images/g/GUsAAOSwjlVb8jTY/s-l300.jpg",
+            "price": 360,
+            "category": "Trending Products"
+        },
+        {
+            "id": 9,
+            "title": "Sony WH-CH510",
+            "image": "https://mms-images-prod.imgix.net/mms/images/catalog/b65970c681d6fa3ea1b6760d3c137415/colors/116223/views/alt/front_medium_extended.png?ixlib=rails-2.1.4&w=320&h=380&fit=crop&dpr=1&q=39&fm=png&auto=format",
+            "price": 320,
+            "category": "Special Products"
+        },
+        {
+            "id": 15,
+            "title": "Sony WH-CH510",
+            "image": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2016/12/attachment_90452176-e1513609007426.png?auto=format&q=60&fit=max&w=930",
+            "price": 305,
+            "category": "Trending Products"
+        },
+        {
+            "id": 16,
+            "title": "Samsung Galaxy",
+            "image": "https://i.pinimg.com/originals/69/74/8a/69748a4ed2e1f12ddb1fe450338e1a45.jpg",
+            "price": 400,
+            "category": "Special Products"
+        },
+        {
+            "id": 17,
+            "title": "Samsung Galaxy",
+            "image": "https://ae01.alicdn.com/kf/Hf8c77822469547fe82ba04eacbef94e4J/2020-Latest-design-Classic-pink-with-black-wedding-suit-for-men-suits-slim-fit-groom-best.jpg",
+            "price": 550,
+            "category": "Trending Products"
+        },
+        {
+            "id": 2,
+            "title": "Apple iPhone 11",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61f0lfYLlCL._AC_UX385_.jpg",
+            "price": 300,
+            "category": "Special Products"
+        },
+        {
+            "id": 18,
+            "title": "Sony WH-CH510",
+            "image": "https://ae01.alicdn.com/kf/HTB1Vaw7dDfN8KJjSZFjq6xGvpXat/New-Grape-womens-business-suits-2-piece-blazer-set-slim-fit-female-trouser-suits-ladies-office.jpg",
+            "price": 630,
+            "category": "Trending Products"
+        },
+        {
+            "id": 20,
+            "title": "Samsung Galaxy",
+            "image": "https://d1fufvy4xao6k9.cloudfront.net/feed/img/woman_suitpants/6790/ladon_list_small.png",
+            "price": 270,
+            "category": "Special Products"
+        },
+        {
+            "id": 19,
+            "title": "Sony WH-CH510",
+            "image": "https://www.next.co.uk/nxtcms/resource/image/2594740/portrait_ratio2x3/320/480/321f16f86a631f126ad4ddc0cc813a89/gi/jumpsuit.jpg",
+            "price": 250,
+            "category": "Trending Products"
+        },
+        {
+            "id": 1,
+            "title": "Sony WH-CH510",
+            "image": "http://www.shopstreetjam.com/assets/images/LoveWomen4ever-Front%20Tie%20Sweater%20Dress-blk%20%20grey2.jpg",
+            "price": 265,
+            "category": "Special Products"
+        },
+        {
+            "id": 24,
+            "title": "Samsung Galaxy",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/717bOngsY7L._AC_SY355_.jpg",
+            "price": 500,
+            "category": "Featured Products"
+        },
+        {
+            "id": 21,
+            "title": "Sony WH-CH510",
+            "image": "https://media.takealot.com/covers_tsins/57529303/6009545414635-1-pdpxl.jpg",
+            "price": 700,
+            "category": "Trending Products"
+        },
+
+        {
+            "id": 25,
+            "title": "Samsung Galaxy",
+            "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-luggage-1554348191.png?crop=0.502xw:1.00xh;0.250xw,0&resize=640:*",
+            "price": 450,
+            "category": "Special Products"
+        },
+        {
+            "id": 22,
+            "title": "Samsung Galaxy",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoaBE1joYYjkV-u_YfJjsDW-n1dCDJYDn1vg&usqp=CAU",
+            "price": 460,
+            "category": "Trending Products"
+        },
+        {
+            "id": 23,
+            "title": "Sony WH-CH510",
+            "image": "https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/09/attachment_71994211.jpg?auto=format&q=60&fit=max&w=930",
+            "price": 600,
+            "category": "Featured Products"
+        }
+
+    ]
+}
