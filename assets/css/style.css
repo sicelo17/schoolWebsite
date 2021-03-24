@@ -1386,3 +1386,33 @@ Facility
   transform: rotateY(180deg);
   line-height: 9.5rem;
 }
+
+
+/*
+======================
+Facility Media Query
+======================
+*/
+@media only screen and (max-width: 998px) {
+  .facility__contianer {
+    grid-template-columns: 1fr 1fr;
+    row-gap: 3rem;
+  }
+}
+
+@media only screen and (max-width: 568px) {
+  .facility__contianer {
+    grid-template-columns: 1fr;
+  }
+
+  .facility-img__container {
+    width: 7rem;
+    height: 7rem;
+    line-height: 8.5rem;
+  }
+
+  .facility__contianer p {
+    font-size: 1.4rem;
+  }
+}
+
