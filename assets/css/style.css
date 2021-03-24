@@ -2150,3 +2150,100 @@ Product Details
     height: 160rem;
   }
 }
+
+/*
+======================
+Product Details Media Query
+======================
+*/
+@media only screen and (max-width: 998px) {
+  .select .select-box {
+    width: 15rem;
+  }
+
+  .select__option label {
+    display: block;
+  }
+
+  .product-info__btn {
+    flex-wrap: wrap;
+  }
+
+  .product-details__btn a {
+    padding: 1rem 2.5rem;
+    font-size: 1.4rem;
+  }
+
+  .picture__container {
+    width: 90%;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .details__container--left {
+    flex-direction: column-reverse;
+    text-align: center;
+  }
+
+  .product__pictures {
+    margin-top: 2rem;
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .pictures__container {
+    width: 50%;
+    border-right-color: var(--primaryColor);
+  }
+
+  .pictures__container:not(:last-child) {
+    border-bottom-color: var(--primaryColor);
+  }
+
+  .product-detail__container {
+    grid-template-columns: 1fr;
+    row-gap: 5rem;
+  }
+
+  .product__info .select {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .select .select-box {
+    display: block;
+    width: 20rem;
+  }
+}
+
+@media only screen and (max-width: 568px) {
+  .select .select-box {
+    width: 15rem;
+  }
+
+  .input-counter {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .input-counter div {
+    margin-top: 1rem;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .product-details__btn a {
+    padding: 0.7rem 2rem;
+    font-size: 1.2rem;
+  }
+
+  .product-details__btn .add span,
+  .product-details__btn .buy span {
+    margin-right: 0rem;
+  }
+
+  .product__review .rating svg {
+    width: 1.4rem;
+    height: 1.4rem;
+  }
+}
