@@ -2412,3 +2412,29 @@ Cart Area
   color: var(--white);
   border: 1px solid var(--black);
 }
+
+
+/*
+======================
+Cart Area Media Query
+======================
+*/
+
+@media only screen and (max-width: 1200px) {
+
+  .minus-btn,
+  .plus-btn {
+    padding: 0.6rem 0.8rem;
+    margin-right: 0;
+  }
+
+  .counter-btn {
+    width: 4rem;
+    padding: 1rem 0;
+  }
+
+  .input-counter svg {
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+}
