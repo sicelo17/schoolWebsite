@@ -56,7 +56,7 @@ const displayProductItems = items => {
                       <li>
                         <a data-tip="Quick View" data-place="left" href="#">
                           <svg>
-                            <use xlink:href="./iassets/img/sprite.svg#icon-eye"></use>
+                            <use xlink:href="./assets/img/sprite.svg#icon-eye"></use>
                           </svg>
                         </a>
                       </li>
